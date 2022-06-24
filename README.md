@@ -1,7 +1,8 @@
 ### Hi there 👋
 I’m a software engineer with 3+ years of professional experience building and maintaining.  I am geared towards building high- performing and innovative products following best practices and industry standards. I’m passionate about solving problems.
 
-<em>Strong Languages</em>: Html5, CSS3, JavaScript, Python, Rust, and Typescript
+### Strong Languages: 
+Html5, CSS3, JavaScript, Python, Rust, and Typescript
 
 🔭 I’m currently working on Myself..
 - 🌱 I’m currently learning Software Engineering, Full Stack Development...
