@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunday</h1>
-<h3 align="center">I'm a passionate Software Engineer Developer from Nigeria. I’m passionate about solving problems</h3>
+<h3 align="center">I'm a passionate Developer and Teacher from Nigeria. I’m passionate about solving problems</h3>
 
 <h4 align="center"> I am geared towards building high- performing and innovative products following best practices and industry standards.</h4>
 
