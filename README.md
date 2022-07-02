@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunday</h1>
 <h3 align="center">I'm a passionate Software Engineer Developer from Nigeria.</h3>
 
-<h4 align="left">I’m a software engineer with some years of professional experience building and maintaining. I am geared towards building high- performing and innovative products following best practices and industry standards. I’m passionate about solving problems</h4>
+<h4 align="center">I’m a software engineer with some years of professional experience building and maintaining. I am geared towards building high- performing and innovative products following best practices and industry standards. I’m passionate about solving problems</h4>
 
 
 ## 🙋‍♂️ About Me
