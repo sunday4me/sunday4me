@@ -16,9 +16,9 @@
 
 - 💬 Ask me about Anything relating **to Technologies, OSS, Software Engineering, Machine Learning, Networking and Data Science...**
 
-- 👨‍💻 All of my projects are available on **[My Github Page]** (https://github.com/sunday4me?tab=repositories)
+- 👨‍💻 All of my projects are available on **[My Github Page](https://github.com/sunday4me?tab=repositories)**
 
-- 📫 How to reach me **sunday4me@gmail.com**
+- 📫 How to reach me **[Email](mailto:sunday4me@gmail.com)**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
