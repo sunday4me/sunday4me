@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available on **[My Github Page](https://github.com/sunday4me?tab=repositories)**
 
-- 📫 How to reach me **[Email](mailto:sunday4me@gmail.com)**
+- 📫 How to reach me **[Send an Email](mailto:sunday4me@gmail.com)**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
