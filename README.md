@@ -16,7 +16,7 @@
 
 - 💬 Ask me about Anything relating **to Technologies, OSS, Software Engineering, Machine Learning, Networking and Data Science...**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[My Github Page](https://github.com/sunday4me?tab=repositories)**
 
 - 📫 How to reach me **sunday4me@gmail.com**
 
