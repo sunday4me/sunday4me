@@ -24,7 +24,7 @@
 
 
 
-## 🚀 Languages and Tools:
+## 🚀 The Languages and Tools I Use:
 
 <p align="left"> 
     <a href="https://go.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a>
