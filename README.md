@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunday</h1>
-<h3 align="center">I'm a coding Facilitator and passionate Software Engineer Developer from Nigeria.</h3>
+<h3 align="center">I'm a coding facilitator and passionate Software Engineer Developer from Nigeria.</h3>
 
 <h3>I’m a software engineer with some years of professional experience building and maintaining. I am geared towards building high - performing and innovative products following best practices and industry standards. I’m passionate about solving problems. I am a detailed-oriented programmer. I excel in conceptualizing and delivering creative solutions for business growth, with focus on overall concepts of an applications. I can work independently or in a team setting </h3>
 
