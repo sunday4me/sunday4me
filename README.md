@@ -74,9 +74,11 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/sunday-a-jimoh-1195b8173"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sunnet4me"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://instagram.com/sunnet4me"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/sunday-jimoh-1195b8173" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/sunnet4me" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://instagram.com/sunnet4me" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://medium.com/@sunday4me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sunday4me" height="30" width="40" /></a>
+<a href="https://dev.to/sunday4me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sunday4me" height="30" width="40" /></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
