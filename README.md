@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **Project**
 
 - 🌱 I’m currently learning **Software Engineering, Data Structures and Algorithms.**
 
