@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Project**
 
-- 🌱 I’m currently learning **Software Engineering,System infrastucture and Design, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Software Engineering, System infrastucture and Design, Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and Software Development**
 
