@@ -5,22 +5,29 @@
 
 <h3>I’m a software engineer with some years of professional experience building and maintaining. I am geared towards building high - performing and innovative products following best practices and industry standards. I’m passionate about solving problems. I am a detailed-oriented programmer. I excel in conceptualizing and delivering creative solutions for business growth, with focus on overall concepts of an applications. I can work independently or in a team setting </h3>
 
+[![Linkedin Badge](https://img.shields.io/badge/-meshachodejide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunday-jimoh-1195b8173)](https://www.linkedin.com/in/sunday-jimoh-1195b8173/)
+[![Twitter Badge](https://img.shields.io/badge/-@sunnet4me-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sunnet4me)](https://twitter.com/sunnet4me)
+
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Project**
+- 😊 Pronouns: He/him
+- 
+- 💡 I'm a self-taught software developer.
+- 
+- 🌱 I’m currently working on my ideas and exploring distributed systems.
+- 
+- 🔭 I’m currently learning **Software Engineering, System infrastucture and Design, Data Structures and Algorithms.**
 
-- 🌱 I’m currently learning **Software Engineering, System infrastucture and Design, Data Structures and Algorithms.**
+- 👯 I’m looking to collaborate on **OpenSource Projects, hackathons, internships, and Software Development**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects and Software Development**
-
-- 💬 Ask me about Anything relating **to Technologies, OSS, Software Engineering, Machine Learning, Networking and Data Science...**
+- 💬 Ask me about Anything relating **to Technologies, Backend development, distributed systems, Golang, and API design, OSS, Software Engineering, Machine Learning, Networking and Data Science...**
 
 - 👨‍💻 All of my projects are available on **[My Portfolio Page](https://sunday4me.github.io/portfolio/)**
 
 - 📫 How to reach me **[Send an Email](mailto:sunday4me@gmail.com)**
 
-- ⚡ Fun fact **I play games (PS) and go to the GYM very often.**
+- ⚡ Fun fact **I play games (PS) and I love watching football, and reading about how things work.** 
 
 
 
