@@ -90,7 +90,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/sunday4me/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sunday4me">
 </a>
 <a href="https://github.com/Sunday4me?tab=followers"><img src="https://img.shields.io/github/followers/Sunday4me?label=Followers&style=social" alt="GitHub Badge"></a>
