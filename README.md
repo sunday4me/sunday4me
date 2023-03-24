@@ -12,11 +12,11 @@
 ## 🙋‍♂️ About Me
 
 - 😊 Pronouns: He/him
-- 
+
 - 💡 I'm a self-taught software developer.
-- 
+
 - 🌱 I’m currently working on my ideas and exploring distributed systems.
-- 
+
 - 🔭 I’m currently learning **Software Engineering, System infrastucture and Design, Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects, hackathons, internships, and Software Development**
