@@ -13,6 +13,7 @@
 <a href="https://sunday4me.hashnode.dev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sunday4me)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunday4me@gmail.com)
+<a href="https://dev.to/sunday4me"><img alt="dev" src="https://img.shields.io/badge/dev-2962FF?style=for-the-badge&logo=devnode&logoColor=white"/></a>
 
 
 ## 🙋‍♂️ About Me
@@ -90,13 +91,13 @@
 
 ## Connect with me:
 <p align="left">
-// <a href = "https://www.linkedin.com/in/sunday-jimoh-1195b8173" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sunday-jimoh-1195b8173" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sunnet4me" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/sunnet4me" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
     <a href="https://medium.com/@sunday4me" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sunday4me" height="30" width="40" /></a>
     <a href="https://dev.to/sunday4me" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sunday4me" height="30" width="40" /></a>
-</p>
+    </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/sunday4me/github-profile-views-counter">
