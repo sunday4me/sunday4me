@@ -90,7 +90,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/sunday-jimoh-1195b8173" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+// <a href = "https://www.linkedin.com/in/sunday-jimoh-1195b8173" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sunnet4me" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/sunnet4me" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
