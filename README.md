@@ -6,7 +6,7 @@
 <h3>I’m a software engineer with some years of professional experience building and maintaining. I am geared towards building high - performing and innovative products following best practices and industry standards. I’m passionate about solving problems. I am a detailed-oriented programmer. I excel in conceptualizing and delivering creative solutions for business growth, with focus on overall concepts of an applications. I can work independently or in a team setting </h3>
 
 ## Connect with me:
-<p align="left">
+
 [![Linkedin Badge](https://img.shields.io/badge/-SundayJimoh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunday-jimoh-1195b8173)](https://www.linkedin.com/in/sunday-jimoh-1195b8173/)
 [![Twitter Badge](https://img.shields.io/badge/-@sunnet4me-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sunnet4me)](https://twitter.com/sunnet4me)
 <a href="https://github.com/sunday4me " target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> 
