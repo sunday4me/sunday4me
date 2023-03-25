@@ -7,6 +7,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-SundayJimoh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunday-jimoh-1195b8173)](https://www.linkedin.com/in/sunday-jimoh-1195b8173/)
 [![Twitter Badge](https://img.shields.io/badge/-@sunnet4me-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sunnet4me)](https://twitter.com/sunnet4me)
+<a href="https://github.com/sunday4me " target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> 
+<a href="https://sunday4me.hashnode.dev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sunday4me)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunday4me@gmail.com)
 
 
 ## 🙋‍♂️ About Me
