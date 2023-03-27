@@ -82,23 +82,6 @@
 </p>
 
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Sunday4me/github-readme-stats"><img alt="Sunday Jimoh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sunday4me&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Sunday4me/github-readme-stats"><img alt="Sunday Jimoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/sunday-jimoh-1195b8173" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sunnet4me" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://instagram.com/sunnet4me" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-    <a href="https://medium.com/@sunday4me" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sunday4me" height="30" width="40" /></a>
-    <a href="https://dev.to/sunday4me" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sunday4me" height="30" width="40" /></a>
-    </p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/sunday4me/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sunday4me">
