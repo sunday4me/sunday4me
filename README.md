@@ -20,7 +20,7 @@
 
 - 😊 Pronouns: He/him
 
-- 💡 I'm a self-taught software developer.
+- 💡 I'm a self-taught software developer and an Alumnus of Altschool Africa and Alx Africa.
 
 - 🌱 I’m currently working on my ideas and exploring distributed systems.
 
