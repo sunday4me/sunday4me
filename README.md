@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunday</h1>
-<h3 align="center">I'm a Coding Facilitator And Passionate Software Engineer Developer from Nigeria. </h3>
+<h3 align="center">I'm a Coding Facilitator, Passionate Software Engineer and developer from Nigeria. </h3>
 
-<!---  <h3>I’m a software engineer with some years of professional experience building and maintaining. I am geared towards building high - performing and innovative products following best practices and industry standards. I’m passionate about solving problems. I am a detailed-oriented programmer. I excel in conceptualizing and delivering creative solutions for business growth, with focus on overall concepts of an applications. I can work independently or in a team setting </h3> --->
+<!---  <h3>I’m a software engineer with some years of professional experience building and maintaining. I am geared towards building high - performing and innovative products following best practices and industry standards. I’m passionate about solving problems. I am a detail-oriented programmer. I excel in conceptualizing and delivering creative solutions for business growth, with focus on overall concepts of applications. I can work independently or in a team setting </h3> --->
 
 ## Connect with me:
 
@@ -20,11 +20,11 @@
 
 - 😊 Pronouns: He/him
 
-- 💡 I'm a self-taught software developer and an Alumnus of Altschool Africa and Alx Africa.
+- 💡 I'm a self-taught software developer and an Alumnus of AltSchool Africa and Alx Africa.
 
 - 🌱 I’m currently working on my ideas and exploring distributed systems.
 
-- 🔭 I’m currently learning **Software Engineering, System infrastucture and Design, Data Structures and Algorithms.**
+- 🔭 I’m currently learning **Software Engineering, System infrastructure and Design, Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects, hackathons, internships, and Software Development**
 
