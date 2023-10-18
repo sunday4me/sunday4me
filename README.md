@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunday Jimoh</h1>
 <h3 align="center">Software Engineer and Developer </h3>
 
-<!---  <h3>I am geared towards building high-performing and innovative products following best practices and industry standards. I’m passionate about solving problems. I am a detail-oriented programmer. I excel in conceptualizing and delivering creative solutions for business growth, with a focus on overall concepts of applications. I can work independently or in a team setting </h3> --->
+<!---  <h3>I am geared towards building high-performing and innovative products following best practices and industry standards. I’m passionate about solving problems. I am a detail-oriented programmer. I excel at conceptualizing and delivering creative solutions for business growth, with a focus on the overall concepts of applications. I can work independently or in a team setting. </h3> --->
 
 ## Connect with me:
 
@@ -23,7 +23,7 @@
 - 💡 I'm a self-taught software developer and graduated from AltSchool Africa and Alx Africa Coding School.
 
 - 🌱 I’m currently working on my ideas, exploring distributed systems and how to visualize Data.
-- 
+  
 - 🌱 NumPy and pandas are my go-to tools for data manipulation and analysis, while SciPy complements my skills in scientific computing. Matplotlib helps me create insightful data visualizations, and Scikit-learn empowers me to build robust machine-learning models.
 
 - 🔭 I’m currently learning **Software Engineering, System infrastructure and Design, Data Structures and Algorithms.**
