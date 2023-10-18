@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunday Jimoh</h1>
-<h3 align="center">Software engineer and developer from Nigeria. </h3>
+<h3 align="center">Software Engineer and Developer </h3>
 
 <!---  <h3>I am geared towards building high-performing and innovative products following best practices and industry standards. I’m passionate about solving problems. I am a detail-oriented programmer. I excel in conceptualizing and delivering creative solutions for business growth, with a focus on overall concepts of applications. I can work independently or in a team setting </h3> --->
 
