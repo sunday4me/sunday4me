@@ -22,7 +22,7 @@
 
 - 💡 I'm a self-taught software developer and Graduated From AltSchool Africa and Alx Africa Coding School.
 
-- 🌱 I’m currently working on my ideas and exploring distributed systems.
+- 🌱 I’m currently working on my ideas,exploring distributed systems and how to visualize Data.
 
 - 🔭 I’m currently learning **Software Engineering, System infrastructure and Design, Data Structures and Algorithms.**
 
