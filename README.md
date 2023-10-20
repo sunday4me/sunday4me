@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently working on my ideas, exploring distributed systems and how to visualize Data.
   
-- 🌱 NumPy and pandas are my go-to tools for data manipulation and analysis, while SciPy complements my skills in scientific computing. Matplotlib helps me create insightful data visualizations, and Scikit-learn empowers me to build robust machine-learning models.
+- 👀 NumPy and pandas are my go-to tools for data manipulation and analysis, while SciPy complements my skills in scientific computing. Matplotlib helps me create insightful data visualizations, and Scikit-learn empowers me to build robust machine-learning models.
 
 - 🔭 I’m currently learning **Software Engineering, System infrastructure and Design, Data Structures and Algorithms.**
 
